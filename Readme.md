@@ -51,14 +51,14 @@ java Main
 
  - A operação de porcentagem considera:
 
- -- primeiro número como o percentual
+ - `primeiro número como o percentual`
 
- -- segundo número como o valor base
+ - `segundo número como o valor base`
 
-  Exemplo:
+  ##Exemplo:
   10% de 200 = 20
-##calculadora-java/
-└── Calcular.java
+-calculadora-java/
+-└── Calcular.java
 
 ## Possíveis Evoluções
 

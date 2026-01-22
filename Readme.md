@@ -66,9 +66,6 @@ Separação das operações em métodos
 
 Tratamento de erros de entrada com try/catch
 
-Criação de um menu mais robusto
-
-Implementação de testes unitários
 
 ## Licença
 

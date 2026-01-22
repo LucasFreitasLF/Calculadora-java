@@ -32,7 +32,7 @@ O programa permite realizar múltiplos cálculos consecutivos até que o usuári
 
 1. Clone o repositório:
    ```bash
-   git clone (https://github.com/LucasFreitasLF/Calculadora-java.git)
+   git clone: https://github.com/LucasFreitasLF/Calculadora-java.git
 
 2. Acesse o diretório do projeto:
 cd calculadora-java
